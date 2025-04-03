@@ -4,7 +4,9 @@
 
 <p align="center">
   <a href="https://hamimifty.tech">🌐 Portfolio</a> •
-  <a href="mailto:your.email@example.com">📧 Email Me</a>
+  <a href="mailto:info@hamimifty.tech">📧 Email Me</a> •
+  <a href="https://www.linkedin.com/in/hamimifty/">🔗 LinkedIn</a> •
+  <a href="https://github.com/hamim-ifty">💻 GitHub</a>
 </p>
 
 ---
@@ -73,10 +75,10 @@ I specialize in creating **scalable, user-friendly, and high-performance applica
 Feel free to reach out—I love collaborating and exchanging ideas!
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-hamimifty.tech-blue?style=flat-square&logo=google-chrome&logoColor=white)](https://hamimifty.tech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github&logoColor=white)](https://github.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamimifty/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github&logoColor=white)](https://github.com/hamim-ifty)
 
-**📧 Email:** your.email@example.com
+**📧 Email:** [info@hamimifty.tech](mailto:info@hamimifty.tech)
 
 ---
 
