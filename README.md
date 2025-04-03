@@ -1,3 +1,7 @@
+![github-header-image](https://github.com/user-attachments/assets/cfed20ac-e8be-47ba-8dd8-9f62ae708a01)
+
+
+
 # 👋 Hi there, I'm Hamim Ifty
 
 ## 🧑‍💻 About Me
