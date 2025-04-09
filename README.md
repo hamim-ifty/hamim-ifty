@@ -43,7 +43,7 @@ I'm a dedicated **Full-Stack Developer** and **Android Developer** with a strong
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-### **Frontend Developer** | [Tone Advisor](https://toneadvisor.com)
+### **Frontend Developer** | [Mailsped.com](https://mailsped.com)
 *January 2023 - Present*
 - Developing dynamic, interactive web applications using **React** and **TypeScript**
 - Implementing responsive UI designs with **Material UI** components
