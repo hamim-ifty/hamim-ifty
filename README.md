@@ -50,7 +50,7 @@ I'm a dedicated **Full-Stack Developer** and **Android Developer** with a strong
 - Collaborating with backend developers on API integration
 - Optimizing application performance and user experience
 
-### **IT Project Intern** | Tech Solutions Finland
+### **IT Project Intern** | Tech Solutions Bangladesh
 *Summer 2022*
 - Assisted in developing and testing web applications
 - Implemented responsive design principles across multiple projects
