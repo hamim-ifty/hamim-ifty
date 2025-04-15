@@ -33,9 +33,16 @@
   <img src="https://img.shields.io/github/last-commit/hamim-ifty/hamim-ifty?logo=github&style=for-the-badge&labelColor=20232a&color=38BDAE" alt="Last Commit"/>
 </p>
 
-<!-- Animated Metrics -->
+<!-- Animated Activity Metrics (More Reliable) -->
 <div align="center">
-  <img alt="Metrics" src="https://github.com/hamim-ifty/hamim-ifty/blob/main/github-metrics.svg" width="100%">
+  <a href="https://skyline.github.com/hamim-ifty/2024" title="2024 GitHub Skyline">
+    <img src="https://img.shields.io/badge/GitHub%20Skyline-View%203D%20Contribution%20Graph-blue?style=for-the-badge&logo=github&color=38BDAE" alt="GitHub Skyline" />
+  </a>
+</div>
+
+<!-- Wakatime Stats (Add your Wakatime username) -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hamimifty&layout=compact&theme=tokyonight&hide_border=true" alt="Wakatime Stats" width="70%" />
 </div>
 
 <!-- GitHub Trophies with Animation -->
@@ -186,9 +193,16 @@ I'm a dedicated **Full-Stack Developer** and **Android Developer** with a strong
   </picture>
 </div>
 
-<!-- 3D Contribution Calendar -->
+<!-- Isometric Calendar Commit (More Reliable) -->
 <div align="center">
-  <img width="100%" src="https://github-profile-3d-contrib.vercel.app/api?username=hamim-ifty&theme=dracula&animation=wave" alt="3D Contribution Calendar" />
+  <a href="https://github.com/hamim-ifty">
+    <img src="https://metrics.lecoq.io/hamim-ifty?template=classic&isocalendar=1&languages=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FDhaka" alt="Detailed GitHub Metrics" width="75%">
+  </a>
+</div>
+
+<!-- Animated Calendar -->
+<div align="center">
+  <img src="https://github-calendar.herokuapp.com/hamim-ifty?color=38BDAE" width="90%" alt="GitHub Calendar" />
 </div>
 
 <!-- Animated Divider -->
