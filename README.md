@@ -265,7 +265,7 @@ I'm a dedicated **Full-Stack Developer** and **Android Developer** with a strong
 ## <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30"> **Education**
 
 <div style="display: flex; align-items: center; margin-bottom: 20px; background: linear-gradient(45deg, #0d1117, #161b22); border-radius: 10px; padding: 15px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);">
-  <img src="https://oamk.fi/wp-content/uploads/2019/05/www_sivut_ja_sahkoiset_esitykset_suomeksi_varillinen-06.png" width="100" alt="OAMK Logo" style="border-radius: 8px;"/>
+  <img src="https://camo.githubusercontent.com/db1289f78cec05f85d073440bced0c5461ae79e83ae61a9c6caf8ac6240d380f/68747470733a2f2f6f616d6b2e66692f77702d636f6e74656e742f75706c6f6164732f323031392f30352f7777775f73697675745f6a615f7361686b6f697365745f65736974796b7365745f73756f6d656b73695f766172696c6c696e656e2d30362e706e67" width="100" alt="OAMK Logo" style="border-radius: 8px;"/>
   <div style="margin-left: 20px;">
     <h3 style="margin: 0;">Bachelor of Engineering, Information Technology (2022-2026)</h3>
     <p style="margin: 5px 0;"><strong>Oulu University of Applied Sciences (OAMK)</strong>, Oulu, Finland</p>
