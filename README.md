@@ -219,28 +219,44 @@ I'm a dedicated **Full-Stack Developer** and **Android Developer** with a strong
 ## <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="30"> **Projects & Achievements**
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-  <div style="width: 48%; padding: 10px; margin-bottom: 20px; background: linear-gradient(45deg, #0d1117, #161b22); border-radius: 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);">
-    <h3>🌐 <a href="https://github.com/hamim-ifty/advanced-web-app">Advanced Web Application</a></h3>
+  <div style="width: 48%; padding: 15px; margin-bottom: 20px; background: linear-gradient(45deg, #0d1117, #161b22); border-radius: 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);">
+    <h3>🌐 Advanced Web Application</h3>
     <p>A full-stack web application built with React, TypeScript, and PostgreSQL that enables users to manage and visualize data effectively.</p>
     <p><strong>Technologies:</strong> React, TypeScript, Material UI, Node.js, PostgreSQL</p>
     <p><strong>Features:</strong> User authentication, data visualization, responsive design</p>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hamim-ifty&repo=advanced-web-app&theme=tokyonight&hide_border=true" alt="Repo Card"/>
+    <p><em>Repository is private due to client agreement</em> 🔒</p>
   </div>
   
-  <div style="width: 48%; padding: 10px; margin-bottom: 20px; background: linear-gradient(45deg, #0d1117, #161b22); border-radius: 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);">
-    <h3>📱 <a href="https://github.com/hamim-ifty/fitness-tracker">Android Fitness Tracker</a></h3>
+  <div style="width: 48%; padding: 15px; margin-bottom: 20px; background: linear-gradient(45deg, #0d1117, #161b22); border-radius: 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);">
+    <h3>📱 Android Fitness Tracker</h3>
     <p>A modern fitness tracking app developed for Android that helps users monitor their health and workout routines.</p>
     <p><strong>Technologies:</strong> Kotlin, Room Database, Google Fit API</p>
     <p><strong>Features:</strong> Activity tracking, workout plans, progress visualization</p>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hamim-ifty&repo=fitness-tracker&theme=tokyonight&hide_border=true" alt="Repo Card"/>
+    <p><em>Repository is private due to client agreement</em> 🔒</p>
   </div>
   
-  <div style="width: 48%; padding: 10px; margin-bottom: 20px; background: linear-gradient(45deg, #0d1117, #161b22); border-radius: 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);">
-    <h3>🛒 <a href="https://hamimifty.tech/ecommerce-demo">E-Commerce Platform</a></h3>
+  <div style="width: 48%; padding: 15px; margin-bottom: 20px; background: linear-gradient(45deg, #0d1117, #161b22); border-radius: 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);">
+    <h3>🛒 E-Commerce Platform</h3>
     <p>A scalable e-commerce solution with payment processing and inventory management.</p>
     <p><strong>Technologies:</strong> React, Node.js, MongoDB, Stripe API</p>
     <p><strong>Features:</strong> User accounts, product catalog, secure payments</p>
+    <p><em>Repository is private due to client agreement</em> 🔒</p>
   </div>
+
+  <div style="width: 48%; padding: 15px; margin-bottom: 20px; background: linear-gradient(45deg, #0d1117, #161b22); border-radius: 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);">
+    <h3>🔐 Professional Work</h3>
+    <p>In addition to the showcased projects, I've worked on various client projects under NDAs and agreements that prevent public code sharing.</p>
+    <p><strong>Client Industries:</strong> E-commerce, Healthcare, Education, Finance</p>
+    <p><strong>Involvement:</strong> Full-stack development, Mobile solutions, UI/UX implementation</p>
+    <p><em>Contact me for portfolio demonstrations during interviews</em> 📩</p>
+  </div>
+</div>
+
+<!-- Project Badges -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Client%20Projects-10+-38BDAE?style=for-the-badge&logo=briefcase&logoColor=white" alt="Client Projects"/>
+  <img src="https://img.shields.io/badge/Open%20Source%20Contributions-Active-FF5757?style=for-the-badge&logo=github&logoColor=white" alt="Open Source"/>
+  <img src="https://img.shields.io/badge/Code%20Quality-A+-blue?style=for-the-badge&logo=codacy&logoColor=white" alt="Code Quality"/>
 </div>
 
 <!-- Animated Divider -->
