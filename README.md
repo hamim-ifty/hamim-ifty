@@ -40,16 +40,20 @@
   </a>
 </div>
 
-<!-- Wakatime Stats (Add your Wakatime username) -->
+<!-- Code Time Stats - No Authentication Required -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hamimifty&layout=compact&theme=tokyonight&hide_border=true" alt="Wakatime Stats" width="70%" />
+  <img src="https://img.shields.io/badge/Code%20Time-1000+%20Hours-38BDAE?style=for-the-badge&logo=wakatime&logoColor=white" alt="Code Time" />
+  <img src="https://img.shields.io/badge/Daily%20Coding-4+%20Hours-FF5757?style=for-the-badge&logo=clockify&logoColor=white" alt="Daily Coding" />
 </div>
 
-<!-- GitHub Trophies with Animation -->
+<!-- GitHub Trophies (Using Default Settings - More Reliable) -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hamim-ifty&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=15" width="100%" alt="Trophy" />
-  <br>
-  <img src="https://img.shields.io/badge/Trophy%20Status-Working%20On%20More-ff69b4?style=for-the-badge&logo=github&logoColor=white" alt="Trophy Status">
+  <img src="https://github-profile-trophy.vercel.app/?username=hamim-ifty&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</div>
+
+<!-- Simple Static Badge -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Always%20Learning%20New%20Technologies-38BDAE?style=for-the-badge&logo=github&logoColor=white" alt="Learning Badge" />
 </div>
 
 <!-- Dynamic Skills Animation -->
@@ -184,25 +188,29 @@ I'm a dedicated **Full-Stack Developer** and **Android Developer** with a strong
   <img height="180em" src="https://streak-stats.demolab.com/?user=hamim-ifty&theme=tokyonight&hide_border=true&background=0D1117&stroke=00bfbf&fire=00bfbf&currStreakLabel=00bfbf&sideLabels=00bfbf" alt="GitHub Streak"/>
 </div>
 
-<!-- Advanced GitHub Activity Animation -->
+<!-- Advanced GitHub Activity Animation (Working Version) -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  </picture>
+  <a href="https://github.com/hamim-ifty">
+    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Activity Snake" width="90%">
+  </a>
 </div>
 
 <!-- Isometric Calendar Commit (More Reliable) -->
 <div align="center">
   <a href="https://github.com/hamim-ifty">
-    <img src="https://metrics.lecoq.io/hamim-ifty?template=classic&isocalendar=1&languages=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FDhaka" alt="Detailed GitHub Metrics" width="75%">
+    <img src="https://img.shields.io/badge/GitHub%20Contributions-View%20Activity%20Graph-38BDAE?style=for-the-badge&logo=github" alt="GitHub Contributions" />
   </a>
 </div>
 
-<!-- Animated Calendar -->
+<!-- Static GitHub Stats (100% Reliable) -->
 <div align="center">
-  <img src="https://github-calendar.herokuapp.com/hamim-ifty?color=38BDAE" width="90%" alt="GitHub Calendar" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hamim-ifty&show_icons=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamim-ifty&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Most Used Languages" />
+</div>
+
+<!-- GitHub Streak Stats -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamim-ifty&theme=tokyonight&hide_border=true&background=0D1117&stroke=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="GitHub Streak" width="70%" />
 </div>
 
 <!-- Animated Divider -->
@@ -305,17 +313,17 @@ I'm a dedicated **Full-Stack Developer** and **Android Developer** with a strong
   </a>
 </div>
 
-<!-- Audio Visualization Footer (SVG Animation) -->
+<!-- Audio Visualization Footer (Static SVG - More Reliable) -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kittinan/spotify-github-profile/master/img/default.svg" alt="Spotify" height="150">
+  <img src="https://capsule-render.vercel.app/api?type=shark&height=100&section=footer&text=Currently%20Coding&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=70&color=gradient&customColorList=12" width="70%" alt="Footer" />
 </div>
 
 <!-- Animated Waves Footer -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=170&section=footer&animation=twinkling&fontColor=fff&fontAlignY=80&text=Let's%20build%20something%20amazing%20together!&fontSize=30&stroke=0000&strokeWidth=1" alt="footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=170&section=footer&animation=twinkling&fontColor=fff&fontAlignY=80&text=Let's%20build%20something%20amazing%20together!&fontSize=30" alt="footer"/>
 </div>
 
-<!-- Spinning Earth Animation -->
+<!-- Static Badge Instead of Animation -->
 <div align="center">
-  <img src="https://img.shields.io/badge/-%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%F0%9F%8C%8D%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80-blue?style=plastic" width="100">
+  <img src="https://img.shields.io/badge/Thanks%20For%20Visiting-38BDAE?style=for-the-badge&logo=github&logoColor=white" alt="Thanks Badge" />
 </div>
