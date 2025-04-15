@@ -1,7 +1,14 @@
 <!-- Custom Header with Advanced Animation -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=vortex&color=0:3a1c71,50:d76d77,100:ffaf7b&height=250&section=header&text=Hamim%20Ifty&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Creator%20%7C%20Developer&descAlignY=51&descSize=18&stroke=ffffff&strokeWidth=2" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Hamim%20Ifty&desc=Software%20Engineer%20%7C%20Creator%20%7C%20Developer&animation=fadeIn&fontColor=fff&fontSize=90&fontAlignY=30&descAlignY=50&descSize=20&stroke=0000&strokeWidth=2" alt="header"/>
 </div>
+
+<!-- Animated SVG Banner -->
+<p align="center">
+  <a href="https://github.com/hamim-ifty">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=38BDAE&center=true&vCenter=true&random=false&width=500&height=60&lines=Welcome+to+My+Digital+Universe!;Full-Stack+Developer;IT+Engineering+Student;Problem+Solver;Knowledge+Explorer" alt="Typing SVG" />
+  </a>
+</p>
 
 <!-- Elegant Welcome Section with Merriweather Sans styling -->
 <h1 align="center" style="font-family: 'Merriweather Sans', sans-serif;">
@@ -23,15 +30,31 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hamim-ifty&label=Visitor%20Count&color=16B7FB&style=for-the-badge" alt="Profile views"/>
   <img src="https://img.shields.io/github/followers/hamim-ifty?label=Followers&style=for-the-badge&color=1f6feb" alt="Followers"/>
+  <img src="https://img.shields.io/github/last-commit/hamim-ifty/hamim-ifty?logo=github&style=for-the-badge&labelColor=20232a&color=38BDAE" alt="Last Commit"/>
 </p>
 
+<!-- Animated Metrics -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hamim-ifty&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+  <img alt="Metrics" src="https://github.com/hamim-ifty/hamim-ifty/blob/main/github-metrics.svg" width="100%">
 </div>
 
-<!-- Advanced Animated Text with Merriweather Sans -->
+<!-- GitHub Trophies with Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather+Sans&weight=600&size=24&duration=4000&pause=1000&color=38BDAE&center=true&vCenter=true&random=false&width=600&height=70&lines=Passionate+Web+%26+Android+Developer;Bachelor+of+IT+Engineering+Student;Full-Stack+Development+Enthusiast;Always+Learning+New+Technologies;Building+Innovative+Solutions;Problem+Solver+%26+Tech+Explorer" alt="Typing SVG"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=hamim-ifty&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=15" width="100%" alt="Trophy" />
+  <br>
+  <img src="https://img.shields.io/badge/Trophy%20Status-Working%20On%20More-ff69b4?style=for-the-badge&logo=github&logoColor=white" alt="Trophy Status">
+</div>
+
+<!-- Dynamic Skills Animation -->
+<div align="center">
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=react,typescript,nodejs,kotlin,python,docker,git,firebase,mongodb&theme=dark&perline=9" alt="Tech Stack" />
+  </p>
+  
+  <!-- Animated Tech Stack -->
+  <p align="center">
+    <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&align=center&titleAlign=center&lineCount=3&theme=github_dark&hideTitle=true&line1=react,react,61DAFB;typescript,typescript,3178C6;javascript,javascript,F7DF1E;redux,redux,764ABC;&line2=node.js,node.js,339933;express,express,000000;mongodb,mongodb,47A248;postgresql,postgresql,4169E1;&line3=kotlin,kotlin,7F52FF;android,android,3DDC84;docker,docker,2496ED;github,github,181717;" alt="Tech Stack" />
+  </p>
 </div>
 
 <!-- Animated Divider -->
@@ -154,8 +177,18 @@ I'm a dedicated **Full-Stack Developer** and **Android Developer** with a strong
   <img height="180em" src="https://streak-stats.demolab.com/?user=hamim-ifty&theme=tokyonight&hide_border=true&background=0D1117&stroke=00bfbf&fire=00bfbf&currStreakLabel=00bfbf&sideLabels=00bfbf" alt="GitHub Streak"/>
 </div>
 
+<!-- Advanced GitHub Activity Animation -->
 <div align="center">
-  <img height="300em" alt="Coding Contribution" src="https://github.com/hamim-ifty/hamim-ifty/blob/output/github-contribution-grid-snake-dark.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<!-- 3D Contribution Calendar -->
+<div align="center">
+  <img width="100%" src="https://github-profile-3d-contrib.vercel.app/api?username=hamim-ifty&theme=dracula&animation=wave" alt="3D Contribution Calendar" />
 </div>
 
 <!-- Animated Divider -->
@@ -246,13 +279,29 @@ I'm a dedicated **Full-Stack Developer** and **Android Developer** with a strong
   </p>
 </div>
 
-<!-- SVG Animation at the Footer -->
+<!-- Dynamic Activity Graph -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/output/github-contribution-grid-snake-dark.svg" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamim-ifty&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&point=38BDAE&color=38BDAE" width="100%">
 </div>
 
-<!-- Fancy Animated Footer -->
+<!-- Interactive SVG Animation -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&animation=fadeIn" width="100%"/>
-  <p style="font-family: 'Merriweather Sans', sans-serif; font-size: 18px; margin-top: -80px; color: white;">🚀 <i>Let's build something amazing together!</i> 🚀</p>
+  <a href="https://skyline.github.com/hamim-ifty/2024" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub_Skyline-View%20My%203D%20Contribution%20Timeline-blue?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</div>
+
+<!-- Audio Visualization Footer (SVG Animation) -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kittinan/spotify-github-profile/master/img/default.svg" alt="Spotify" height="150">
+</div>
+
+<!-- Animated Waves Footer -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=170&section=footer&animation=twinkling&fontColor=fff&fontAlignY=80&text=Let's%20build%20something%20amazing%20together!&fontSize=30&stroke=0000&strokeWidth=1" alt="footer"/>
+</div>
+
+<!-- Spinning Earth Animation -->
+<div align="center">
+  <img src="https://img.shields.io/badge/-%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%F0%9F%8C%8D%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80-blue?style=plastic" width="100">
 </div>
