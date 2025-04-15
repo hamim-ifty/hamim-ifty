@@ -264,8 +264,8 @@ I'm a dedicated **Full-Stack Developer** and **Android Developer** with a strong
 
 ## <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30"> **Education**
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="https://img.shields.io/badge/OAMK-004d98?style=for-the-badge" width="100" alt="OAMK"/>
+<div style="display: flex; align-items: center; margin-bottom: 20px; background: linear-gradient(45deg, #0d1117, #161b22); border-radius: 10px; padding: 15px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);">
+  <img src="https://oamk.fi/wp-content/uploads/2019/05/www_sivut_ja_sahkoiset_esitykset_suomeksi_varillinen-06.png" width="100" alt="OAMK Logo" style="border-radius: 8px;"/>
   <div style="margin-left: 20px;">
     <h3 style="margin: 0;">Bachelor of Engineering, Information Technology (2022-2026)</h3>
     <p style="margin: 5px 0;"><strong>Oulu University of Applied Sciences (OAMK)</strong>, Oulu, Finland</p>
@@ -276,8 +276,8 @@ I'm a dedicated **Full-Stack Developer** and **Android Developer** with a strong
   </div>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="https://img.shields.io/badge/Centria-e87722?style=for-the-badge" width="100" alt="Centria"/>
+<div style="display: flex; align-items: center; margin-bottom: 20px; background: linear-gradient(45deg, #0d1117, #161b22); border-radius: 10px; padding: 15px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);">
+  <img src="https://www.studyinfinland.fi/sites/default/files/styles/og_image/public/2022-09/2022%20Centria%20logo%20600x600px.png?itok=dKCgnwIZ" width="100" alt="Centria Logo" style="border-radius: 8px;"/>
   <div style="margin-left: 20px;">
     <h3 style="margin: 0;">Information Technology Studies (2021-2022)</h3>
     <p style="margin: 5px 0;"><strong>Centria University of Applied Sciences</strong>, Kokkola, Finland</p>
@@ -285,6 +285,12 @@ I'm a dedicated **Full-Stack Developer** and **Android Developer** with a strong
       <li>Completed first year with focus on programming fundamentals and networking</li>
     </ul>
   </div>
+</div>
+
+<!-- Education Badges -->
+<div align="center">
+  <img src="https://img.shields.io/badge/GPA-4.0/5.0-38BDAE?style=for-the-badge&logo=academia&logoColor=white" alt="GPA"/>
+  <img src="https://img.shields.io/badge/Coursework-Advanced-FF5757?style=for-the-badge&logo=book&logoColor=white" alt="Coursework"/>
 </div>
 
 <!-- Animated Divider -->
