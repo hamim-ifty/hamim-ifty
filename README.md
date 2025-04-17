@@ -6,7 +6,7 @@
 <!-- Animated SVG Banner -->
 <p align="center">
   <a href="https://github.com/hamim-ifty">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=38BDAE&center=true&vCenter=true&random=false&width=500&height=60&lines=Welcome+to+My+Digital+Universe!;Full-Stack+Developer;IT+Engineering+Student;Problem+Solver;Knowledge+Explorer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Merriweather+Sans&duration=3000&pause=1000&color=38BDAE&center=true&vCenter=true&random=false&width=500&height=60&lines=Welcome+to+My+Digital+Universe!;Full-Stack+Developer;IT+Engineering+Student;Problem+Solver;Knowledge+Explorer" alt="Typing SVG" />
   </a>
 </p>
 
@@ -26,32 +26,32 @@
   <a href="https://github.com/hamim-ifty"><img src="https://img.shields.io/badge/GitHub-hamim--ifty-20232A?style="for-the-badge"&logo=github&logoColor=white&labelColor=181717&color=20232A" alt="GitHub"/></a>
 </p>
 
-<!-- Animated Profile Views Counter -->
+<!-- Profile Statistics -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hamim-ifty&label=Visitor%20Count&color=16B7FB&style=for-the-badge" alt="Profile views"/>
   <img src="https://img.shields.io/github/followers/hamim-ifty?label=Followers&style=for-the-badge&color=1f6feb" alt="Followers"/>
   <img src="https://img.shields.io/github/last-commit/hamim-ifty/hamim-ifty?logo=github&style=for-the-badge&labelColor=20232a&color=38BDAE" alt="Last Commit"/>
 </p>
 
-<!-- Animated Activity Metrics (More Reliable) -->
+<!-- Activity Metrics -->
 <div align="center">
   <a href="https://skyline.github.com/hamim-ifty/2024" title="2024 GitHub Skyline">
     <img src="https://img.shields.io/badge/GitHub%20Skyline-View%203D%20Contribution%20Graph-blue?style=for-the-badge&logo=github&color=38BDAE" alt="GitHub Skyline" />
   </a>
 </div>
 
-<!-- Code Time Stats - No Authentication Required -->
+<!-- Code Time Stats -->
 <div align="center">
   <img src="https://img.shields.io/badge/Code%20Time-1000+%20Hours-38BDAE?style=for-the-badge&logo=wakatime&logoColor=white" alt="Code Time" />
   <img src="https://img.shields.io/badge/Daily%20Coding-4+%20Hours-FF5757?style=for-the-badge&logo=clockify&logoColor=white" alt="Daily Coding" />
 </div>
 
-<!-- GitHub Trophies (Using Default Settings - More Reliable) -->
+<!-- GitHub Trophies -->
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=hamim-ifty&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
-<!-- Simple Static Badge -->
+<!-- Learning Badge -->
 <div align="center">
   <img src="https://img.shields.io/badge/Always%20Learning%20New%20Technologies-38BDAE?style=for-the-badge&logo=github&logoColor=white" alt="Learning Badge" />
 </div>
@@ -169,8 +169,8 @@ I'm a dedicated **Full-Stack Developer** and **Android Developer** with a strong
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
 </p>
 
-<!-- Animated Skill Bar for Visual Appeal -->
-<div>
+<!-- Animated Skill Visual -->
+<div align="center">
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 </div>
 
@@ -184,33 +184,16 @@ I'm a dedicated **Full-Stack Developer** and **Android Developer** with a strong
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamim-ifty&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Top Languages" />
 </div>
 
+<!-- GitHub Streak Stats -->
 <div align="center">
   <img height="180em" src="https://streak-stats.demolab.com/?user=hamim-ifty&theme=tokyonight&hide_border=true&background=0D1117&stroke=00bfbf&fire=00bfbf&currStreakLabel=00bfbf&sideLabels=00bfbf" alt="GitHub Streak"/>
 </div>
 
-<!-- Advanced GitHub Activity Animation (Working Version) -->
+<!-- GitHub Activity Snake Animation -->
 <div align="center">
   <a href="https://github.com/hamim-ifty">
     <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Activity Snake" width="90%">
   </a>
-</div>
-
-<!-- Isometric Calendar Commit (More Reliable) -->
-<div align="center">
-  <a href="https://github.com/hamim-ifty">
-    <img src="https://img.shields.io/badge/GitHub%20Contributions-View%20Activity%20Graph-38BDAE?style=for-the-badge&logo=github" alt="GitHub Contributions" />
-  </a>
-</div>
-
-<!-- Static GitHub Stats (100% Reliable) -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamim-ifty&show_icons=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamim-ifty&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Most Used Languages" />
-</div>
-
-<!-- GitHub Streak Stats -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamim-ifty&theme=tokyonight&hide_border=true&background=0D1117&stroke=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="GitHub Streak" width="70%" />
 </div>
 
 <!-- Animated Divider -->
@@ -267,9 +250,9 @@ I'm a dedicated **Full-Stack Developer** and **Android Developer** with a strong
 <div style="display: flex; align-items: center; margin-bottom: 20px; background: linear-gradient(45deg, #0d1117, #161b22); border-radius: 10px; padding: 15px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);">
   <img src="https://camo.githubusercontent.com/db1289f78cec05f85d073440bced0c5461ae79e83ae61a9c6caf8ac6240d380f/68747470733a2f2f6f616d6b2e66692f77702d636f6e74656e742f75706c6f6164732f323031392f30352f7777775f73697675745f6a615f7361686b6f697365745f65736974796b7365745f73756f6d656b73695f766172696c6c696e656e2d30362e706e67" width="100" alt="OAMK Logo" style="border-radius: 8px;"/>
   <div style="margin-left: 20px;">
-    <h3 style="margin: 0;">Bachelor of Engineering, Information Technology (2022-2026)</h3>
-    <p style="margin: 5px 0;"><strong>Oulu University of Applied Sciences (OAMK)</strong>, Oulu, Finland</p>
-    <ul>
+    <h3 style="margin: 0; font-family: 'Merriweather Sans', sans-serif;">Bachelor of Engineering, Information Technology (2022-2026)</h3>
+    <p style="margin: 5px 0; font-family: 'Merriweather Sans', sans-serif;"><strong>Oulu University of Applied Sciences (OAMK)</strong>, Oulu, Finland</p>
+    <ul style="font-family: 'Merriweather Sans', sans-serif;">
       <li>Specialization: Software Engineering & Web Development</li>
       <li>Relevant coursework: Algorithms, Database Systems, Web Technologies, Mobile Development</li>
     </ul>
@@ -279,9 +262,9 @@ I'm a dedicated **Full-Stack Developer** and **Android Developer** with a strong
 <div style="display: flex; align-items: center; margin-bottom: 20px; background: linear-gradient(45deg, #0d1117, #161b22); border-radius: 10px; padding: 15px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);">
   <img src="https://www.studyinfinland.fi/sites/default/files/styles/og_image/public/2022-09/2022%20Centria%20logo%20600x600px.png?itok=dKCgnwIZ" width="100" alt="Centria Logo" style="border-radius: 8px;"/>
   <div style="margin-left: 20px;">
-    <h3 style="margin: 0;">Information Technology Studies (2021-2022)</h3>
-    <p style="margin: 5px 0;"><strong>Centria University of Applied Sciences</strong>, Kokkola, Finland</p>
-    <ul>
+    <h3 style="margin: 0; font-family: 'Merriweather Sans', sans-serif;">Information Technology Studies (2021-2022)</h3>
+    <p style="margin: 5px 0; font-family: 'Merriweather Sans', sans-serif;"><strong>Centria University of Applied Sciences</strong>, Kokkola, Finland</p>
+    <ul style="font-family: 'Merriweather Sans', sans-serif;">
       <li>Completed first year with focus on programming fundamentals and networking</li>
     </ul>
   </div>
@@ -299,7 +282,7 @@ I'm a dedicated **Full-Stack Developer** and **Android Developer** with a strong
 ## <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="30"> **Let's Connect**
 
 <div align="center">
-  <p>I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out!</p>
+  <p style="font-family: 'Merriweather Sans', sans-serif;">I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out!</p>
   
   <a href="https://hamimifty.tech">
     <img src="https://img.shields.io/badge/Portfolio-00A98F?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
@@ -318,34 +301,28 @@ I'm a dedicated **Full-Stack Developer** and **Android Developer** with a strong
     <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
   </div>
   
-  <p>
+  <p style="font-family: 'Merriweather Sans', sans-serif;">
     <strong>📧 Email:</strong> <a href="mailto:info@hamimifty.tech">info@hamimifty.tech</a>
   </p>
 </div>
 
-<!-- Dynamic Activity Graph -->
+<!-- Activity Graph -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamim-ifty&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&point=38BDAE&color=38BDAE" width="100%">
 </div>
 
-<!-- Interactive SVG Animation -->
+<!-- GitHub Skyline Link -->
 <div align="center">
   <a href="https://skyline.github.com/hamim-ifty/2024" target="_blank">
     <img src="https://img.shields.io/badge/GitHub_Skyline-View%20My%203D%20Contribution%20Timeline-blue?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </div>
 
-<!-- Audio Visualization Footer (Static SVG - More Reliable) -->
+<!-- Animated Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&height=100&section=footer&text=Currently%20Coding&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=70&color=gradient&customColorList=12" width="70%" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=170&section=footer&animation=twinkling&fontColor=fff&fontAlignY=80&text=Let's%20build%20something%20amazing%20together!&fontSize=30" alt="footer"/>
 </div>
 
-<!-- Animated Waves Footer -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=170&section=footer&animation=twinkling&fontColor=fff&fontAlignY=80&text=Let's%20build%20something%20amazing%20together!&fontSize=30" alt="footer"/>
-</div>
-
-<!-- Static Badge Instead of Animation -->
 <div align="center">
   <img src="https://img.shields.io/badge/Thanks%20For%20Visiting-38BDAE?style=for-the-badge&logo=github&logoColor=white" alt="Thanks Badge" />
 </div>
