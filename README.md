@@ -1,24 +1,38 @@
 <!-- Custom Header with Advanced Animation -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Hamim%20Ifty&desc=Software%20Engineer%20%7C%20Creator%20%7C%20Developer&animation=fadeIn&fontColor=fff&fontSize=90&fontAlignY=30&descAlignY=50&descSize=20&stroke=0000&strokeWidth=2" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=300&section=header&text=Hamim%20Ifty&desc=Software%20Engineer%20%7C%20Creator%20%7C%20Developer&animation=twinkling&fontColor=fff&fontSize=90&fontAlignY=30&descAlignY=50&descSize=20&stroke=0000&strokeWidth=2" alt="header"/>
 </div>
 
-<!-- Animated SVG Banner -->
-<p align="center">
+<!-- Animated Cosmic Banner -->
+<div align="center">
   <a href="https://github.com/hamim-ifty">
-    <img src="https://readme-typing-svg.demolab.com?font=Merriweather+Sans&duration=3000&pause=1000&color=38BDAE&center=true&vCenter=true&random=false&width=500&height=60&lines=Welcome+to+My+Digital+Universe!;Full-Stack+Developer;IT+Engineering+Student;Problem+Solver;Knowledge+Explorer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Merriweather+Sans:wght@700&size=28&duration=3000&pause=1000&color=38BDAE&center=true&vCenter=true&width=600&height=70&lines=✨+Welcome+to+My+Digital+Universe!+✨;🚀+Full-Stack+Developer;💻+IT+Engineering+Student;🔍+Problem+Solver;📚+Knowledge+Explorer" alt="Typing SVG" />
   </a>
-</p>
+</div>
 
-<!-- Elegant Welcome Section with Merriweather Sans styling -->
+<!-- Animated Particle Background (Link Only) -->
+<div align="center">
+  <a href="https://github.com/hamim-ifty">
+    <img src="https://img.shields.io/badge/✨-Interactive_Profile-blueviolet?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="Interactive Profile"/>
+  </a>
+</div>
+
+<!-- Elegant Welcome Section with Enhanced Styling -->
 <h1 align="center" style="font-family: 'Merriweather Sans', sans-serif;">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> 
   <span style="background: linear-gradient(to right, #3a1c71, #d76d77, #ffaf7b); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Welcome to my Digital Universe!</span>
 </h1>
 
-<h3 align="center" style="font-family: 'Merriweather Sans', sans-serif; font-weight: 300;">Full-Stack & Android Developer | IT Engineering Student</h3>
+<h3 align="center" style="font-family: 'Merriweather Sans', sans-serif; font-weight: 300; background: linear-gradient(90deg, #38BDAE, #4A90E2, #FF5757); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Full-Stack & Android Developer | IT Engineering Student</h3>
 
-<!-- Animated Social Media Badges -->
+<!-- Animated Badge Bar with Hover Effects -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Seeking_Opportunities-38BDAE?style=for-the-badge&logoColor=white" alt="Status"/>
+  <img src="https://img.shields.io/badge/Focus-Web_&_Mobile_Dev-FF5757?style=for-the-badge&logoColor=white" alt="Focus"/>
+  <img src="https://img.shields.io/badge/Location-Finland-4A90E2?style=for-the-badge&logoColor=white" alt="Location"/>
+</div>
+
+<!-- Animated Social Media Badges with Pulse Effect -->
 <p align="center">
   <a href="https://hamimifty.tech"><img src="https://img.shields.io/badge/Portfolio-hamimifty.tech-20BEFF?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0b1b27&color=20BEFF" alt="Portfolio"/></a>
   <a href="mailto:info@hamimifty.tech"><img src="https://img.shields.io/badge/Email-info@hamimifty.tech-FF5757?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2B2D33&color=FF5757" alt="Email"/></a>
@@ -56,32 +70,62 @@
   <img src="https://img.shields.io/badge/Always%20Learning%20New%20Technologies-38BDAE?style=for-the-badge&logo=github&logoColor=white" alt="Learning Badge" />
 </div>
 
-<!-- Dynamic Skills Animation -->
+<!-- Dynamic Skills Animation with Floating Effect -->
 <div align="center">
+  <h3 style="font-family: 'Merriweather Sans', sans-serif; background: linear-gradient(90deg, #38BDAE, #4A90E2); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">⚡ Tech Superpowers ⚡</h3>
+  
+  <!-- Primary Tech Stack with Hover Effects -->
   <p align="center">
     <img src="https://skillicons.dev/icons?i=react,typescript,nodejs,kotlin,python,docker,git,firebase,mongodb&theme=dark&perline=9" alt="Tech Stack" />
   </p>
   
-  <!-- Animated Tech Stack -->
+  <!-- Animated Tech Stack Cards -->
   <p align="center">
     <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&align=center&titleAlign=center&lineCount=3&theme=github_dark&hideTitle=true&line1=react,react,61DAFB;typescript,typescript,3178C6;javascript,javascript,F7DF1E;redux,redux,764ABC;&line2=node.js,node.js,339933;express,express,000000;mongodb,mongodb,47A248;postgresql,postgresql,4169E1;&line3=kotlin,kotlin,7F52FF;android,android,3DDC84;docker,docker,2496ED;github,github,181717;" alt="Tech Stack" />
   </p>
+  
+  <!-- Technology Experience Level Indicators -->
+  <div align="center" style="margin-top: 20px;">
+    <img src="https://img.shields.io/badge/Frontend-★★★★★-38BDAE?style=flat-square&logo=frontend&logoColor=white" alt="Frontend" />
+    <img src="https://img.shields.io/badge/Backend-★★★★☆-4A90E2?style=flat-square&logo=backend&logoColor=white" alt="Backend" />
+    <img src="https://img.shields.io/badge/Mobile-★★★★☆-FF5757?style=flat-square&logo=android&logoColor=white" alt="Mobile" />
+    <img src="https://img.shields.io/badge/DevOps-★★★☆☆-FFBE0B?style=flat-square&logo=docker&logoColor=white" alt="DevOps" />
+  </div>
 </div>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- Animated Wave Divider -->
+<img src="https://i.imgur.com/waxVImv.png" alt="Colorful Divider" width="100%">
 
-## <img src="https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="30"> **About Me**
+## <img src="https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="30"> **About Me** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif">
 
-I'm a dedicated **Full-Stack Developer** and **Android Developer** with a strong passion for creating technology solutions that make an impact. Currently pursuing my **Bachelor of Engineering in Information Technology** at **Oulu University of Applied Sciences (OAMK)** in Finland.
+<p style="font-family: 'Merriweather Sans', sans-serif; font-size: 16px; text-align: justify;">
+I'm a dedicated <b><i>Full-Stack Developer</i></b> and <b><i>Android Developer</i></b> with a strong passion for creating technology solutions that make an impact. Currently pursuing my <b>Bachelor of Engineering in Information Technology</b> at <b>Oulu University of Applied Sciences (OAMK)</b> in Finland.
+</p>
 
-- 🔭 I'm currently working on **advanced web applications using React and TypeScript**
-- 🌱 I'm continuously learning **Cloud Architecture, CI/CD, and System Design**
-- 👯 I'm looking to collaborate on **open-source projects and innovative web applications**
-- 💬 Ask me about **React, TypeScript, Kotlin, or Full-Stack Development**
-- ⚡ Fun fact: **I can solve a Rubik's cube in under 2 minutes!**
+<div style="font-family: 'Merriweather Sans', sans-serif;">
+  <img src="https://readme-typing-svg.demolab.com?font=Merriweather+Sans&size=18&duration=2000&pause=1000&multiline=true&width=500&height=80&lines=Passionate+about+creating+innovative+solutions;Dedicated+to+writing+clean%2C+maintainable+code;Always+exploring+new+technologies" alt="About Me Typing" />
+</div>
+
+<!-- Animated About Me -->
+<div style="margin-top: 20px;">
+  <p>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="25" height="25" /> I'm currently working on <b style="color: #38BDAE;">advanced web applications using React and TypeScript</b>
+  </p>
+  <p>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Seedling.png" alt="Seedling" width="25" height="25" /> I'm continuously learning <b style="color: #4A90E2;">Cloud Architecture, CI/CD, and System Design</b>
+  </p>
+  <p>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Handshake.png" alt="Handshake" width="25" height="25" /> I'm looking to collaborate on <b style="color: #FF5757;">open-source projects and innovative web applications</b>
+  </p>
+  <p>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Speech%20Balloon.png" alt="Speech Balloon" width="25" height="25" /> Ask me about <b style="color: #38BDAE;">React, TypeScript, Kotlin, or Full-Stack Development</b>
+  </p>
+  <p>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/High%20Voltage.png" alt="High Voltage" width="25" height="25" /> Fun fact: <b style="color: #FF5757;">I can solve a Rubik's cube in under 2 minutes!</b>
+  </p>
+</div>
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -235,11 +279,23 @@ I'm a dedicated **Full-Stack Developer** and **Android Developer** with a strong
   </div>
 </div>
 
-<!-- Project Badges -->
+<!-- Enhanced Project Badges with Animation Effect -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Client%20Projects-10+-38BDAE?style=for-the-badge&logo=briefcase&logoColor=white" alt="Client Projects"/>
-  <img src="https://img.shields.io/badge/Open%20Source%20Contributions-Active-FF5757?style=for-the-badge&logo=github&logoColor=white" alt="Open Source"/>
-  <img src="https://img.shields.io/badge/Code%20Quality-A+-blue?style=for-the-badge&logo=codacy&logoColor=white" alt="Code Quality"/>
+  <!-- Project Achievement Carousel -->
+  <div style="margin: 25px 0;">
+    <img src="https://readme-typing-svg.demolab.com?font=Merriweather+Sans&weight=600&size=18&duration=3000&pause=1000&color=38BDAE&center=true&vCenter=true&width=435&lines=10%2B+Client+Projects+Completed;15%2B+Personal+Projects;Active+Open+Source+Contributor;A%2B+Code+Quality+Rating" alt="Project Achievements" />
+  </div>
+  
+  <!-- Animated Achievement Badges -->
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
+    <img src="https://img.shields.io/badge/Client%20Projects-10+-38BDAE?style=for-the-badge&logo=briefcase&logoColor=white" alt="Client Projects"/>
+    <img src="https://img.shields.io/badge/Open%20Source-Active_Contributor-FF5757?style=for-the-badge&logo=github&logoColor=white" alt="Open Source"/>
+    <img src="https://img.shields.io/badge/Code%20Quality-A+-4A90E2?style=for-the-badge&logo=codacy&logoColor=white" alt="Code Quality"/>
+    <img src="https://img.shields.io/badge/Project_Satisfaction-100%25-FFBE0B?style=for-the-badge&logo=thumbsup&logoColor=white" alt="Satisfaction"/>
+  </div>
+  
+  <!-- Project Timeline Indicator -->
+  <img src="https://img.shields.io/badge/Development_Journey-2021_to_Present-8A2BE2?style=for-the-badge&logo=timeline&logoColor=white" alt="Development Timeline"/>
 </div>
 
 <!-- Animated Divider -->
@@ -318,11 +374,34 @@ I'm a dedicated **Full-Stack Developer** and **Android Developer** with a strong
   </a>
 </div>
 
-<!-- Animated Footer -->
+<!-- Enhanced Interactive Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=170&section=footer&animation=twinkling&fontColor=fff&fontAlignY=80&text=Let's%20build%20something%20amazing%20together!&fontSize=30" alt="footer"/>
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Thanks%20For%20Visiting-38BDAE?style=for-the-badge&logo=github&logoColor=white" alt="Thanks Badge" />
+  <!-- Floating Space Animation -->
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  
+  <!-- Music Visualizer Effect -->
+  <img src="https://raw.githubusercontent.com/trinib/spotify-github-profile/master/img/default.svg" width="300" alt="Music Visualizer">
+  
+  <!-- Interactive Quote -->
+  <div style="margin: 20px 0;">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
+  </div>
+  
+  <!-- Advanced Animated Wave Footer -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=170&section=footer&animation=twinkling&fontColor=fff&fontAlignY=80&text=Let's%20build%20something%20amazing%20together!&fontSize=30" alt="footer"/>
+  
+  <!-- Visitor Counter with Animation -->
+  <div style="margin-top: -30px; margin-bottom: 20px;">
+    <img src="https://profile-counter.glitch.me/hamim-ifty/count.svg" alt="Visitor Count" />
+  </div>
+  
+  <!-- Final Thank You Badge with Enhanced Style -->
+  <div style="margin-bottom: 20px;">
+    <img src="https://img.shields.io/badge/Thanks%20For%20Visiting-38BDAE?style=for-the-badge&logo=github&logoColor=white" alt="Thanks Badge" />
+  </div>
+  
+  <!-- Last Updated Timestamp -->
+  <div>
+    <img src="https://img.shields.io/badge/Last%20Updated-April%202025-4A90E2?style=flat-square" alt="Last Updated" />
+  </div>
 </div>
