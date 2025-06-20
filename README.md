@@ -99,7 +99,6 @@ CI/CD          █████████████░░░░░░░ 60%
 
 ### **Bachelor of Engineering, Information Technology**
 **Oulu University of Applied Sciences (OAMK)** | *2022 - 2026*
-- **Current GPA:** 4.2/5.0
 - **Specialization:** Software Engineering & Web Development
 - **Relevant Coursework:** Data Structures & Algorithms, Database Systems, Web Technologies, Mobile App Development, Software Engineering Principles
 
