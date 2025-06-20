@@ -110,12 +110,12 @@ Frontend Developer with 2+ years of experience building scalable web application
 ## 🎓 **Education**
 
 ### **Bachelor of Engineering, Information Technology**
-**Oulu University of Applied Sciences (OAMK)** | *2022 - 2026*
+**Oulu University of Applied Sciences (OAMK)** | *2024 - 2027*
 - **Specialization:** Software Engineering & Web Development
 - **Relevant Coursework:** Data Structures & Algorithms, Database Systems, Web Technologies, Mobile App Development, Software Engineering Principles
 
 ### **Information Technology Foundation**
-**Centria University of Applied Sciences** | *2021 - 2022*
+**Centria University of Applied Sciences** | *2023 - 2024*
 - Completed foundational courses in programming and computer networks
 - Strong performance in mathematics and logical reasoning modules
 
