@@ -31,7 +31,7 @@
 
 ## 👨‍💻 **Professional Summary**
 
-Senior Frontend Developer with 2+ years of experience building scalable web applications using modern JavaScript frameworks. Currently contributing to innovative email solutions at Mailsped, focusing on performance optimization and user experience enhancement. Specialized in React ecosystem, TypeScript, and responsive design patterns.
+Frontend Developer with 2+ years of experience building scalable web applications using modern JavaScript frameworks. Currently contributing to innovative email solutions at Mailsped, focusing on performance optimization and user experience enhancement. Specialized in React ecosystem, TypeScript, and responsive design patterns.
 
 **Key Strengths:**
 - Full-stack web development with React, TypeScript, and Node.js
