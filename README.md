@@ -66,35 +66,47 @@ Frontend Developer with 2+ years of experience building scalable web application
 
 ## 🛠️ **Technical Expertise**
 
-### **Frontend Technologies**
-React          ████████████████████ 95%
-TypeScript     ███████████████████░ 90%
-JavaScript     ████████████████████ 95%
-HTML5/CSS3     ████████████████████ 95%
-Material UI    ██████████████████░░ 85%
-Redux          ████████████████░░░░ 80%
+<table>
+<tr><td>
 
-### **Backend & Database**
-Node.js        ██████████████████░░ 85%
-Express.js     ███████████████████░ 90%
-PostgreSQL     ██████████████████░░ 85%
-MongoDB        █████████████████░░░ 80%
-REST APIs      ████████████████████ 95%
+### **🎨 Frontend Technologies**
+<img src="https://img.shields.io/badge/React-95%25-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=20232A" />
+<img src="https://img.shields.io/badge/TypeScript-90%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=2F74C0" />
+<img src="https://img.shields.io/badge/JavaScript-95%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F0DB4F" />
+<img src="https://img.shields.io/badge/HTML5/CSS3-95%25-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=1572B6" />
+<img src="https://img.shields.io/badge/Material_UI-85%25-0081CB?style=for-the-badge&logo=mui&logoColor=white&labelColor=007BB2" />
+<img src="https://img.shields.io/badge/Redux-80%25-764ABC?style=for-the-badge&logo=redux&logoColor=white&labelColor=593D88" />
 
-### **Mobile Development**
-Kotlin         ██████████████████░░ 85%
-Android SDK    █████████████████░░░ 80%
-Java           ████████████████░░░░ 75%
-React Native   ██████████████░░░░░░ 65%
+</td><td>
 
-### **DevOps & Tools**
-Git/GitHub     ████████████████████ 95%
-Docker         ███████████████░░░░░ 70%
-AWS            ████████████░░░░░░░░ 55%
-CI/CD          █████████████░░░░░░░ 60%
+### **⚙️ Backend & Database**
+<img src="https://img.shields.io/badge/Node.js-85%25-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=68A063" />
+<img src="https://img.shields.io/badge/Express.js-90%25-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=404040" />
+<img src="https://img.shields.io/badge/PostgreSQL-85%25-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=4169E1" />
+<img src="https://img.shields.io/badge/MongoDB-80%25-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=4DB33D" />
+<img src="https://img.shields.io/badge/REST_APIs-95%25-FF6B35?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=009688" />
+
+</td></tr>
+<tr><td>
+
+### **📱 Mobile Development**
+<img src="https://img.shields.io/badge/Kotlin-85%25-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=0095D5" />
+<img src="https://img.shields.io/badge/Android_SDK-80%25-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=32DE84" />
+<img src="https://img.shields.io/badge/Java-75%25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=007396" />
+<img src="https://img.shields.io/badge/React_Native-65%25-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=20232A" />
+
+</td><td>
+
+### **🔧 DevOps & Tools**
+<img src="https://img.shields.io/badge/Git/GitHub-95%25-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=181717" />
+<img src="https://img.shields.io/badge/Docker-70%25-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0DB7ED" />
+<img src="https://img.shields.io/badge/AWS-55%25-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=FF9900" />
+<img src="https://img.shields.io/badge/CI/CD-60%25-2088FF?style=for-the-badge&logo=github-actions&logoColor=white&labelColor=0366D6" />
+
+</td></tr>
+</table>
 
 ---
-
 ## 🎓 **Education**
 
 ### **Bachelor of Engineering, Information Technology**
