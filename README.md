@@ -1,71 +1,37 @@
+<div align="center">
+
 # Hamim Ifty
+### Web & Android Developer
 
-**Web & Android Developer**
+*Building scalable applications with modern technologies*
 
-Building scalable applications with modern technologies
+[![Portfolio](https://img.shields.io/badge/Portfolio-hamimifty.tech-000000?style=for-the-badge&logo=safari&logoColor=white)](https://hamimifty.tech)
+[![Email](https://img.shields.io/badge/Email-info@hamimifty.tech-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@hamimifty.tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-hamimifty-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hamimifty)
 
----
+![Profile Views](https://komarev.com/ghpvc/?username=hamim-ifty&color=000000&style=for-the-badge&label=Profile+Views)
 
-## About
-
-Frontend Developer at [Mailsped.com](https://mailsped.com) with experience in web and mobile development. Currently studying Information Technology at Oulu University of Applied Sciences.
-
-```
-📧 info@hamimifty.tech
-🌐 hamimifty.tech
-💼 linkedin.com/in/hamimifty
-```
+</div>
 
 ---
 
-## Tech Stack
-
-**Languages**
-```
-JavaScript  TypeScript  Kotlin  Java  Python  C  C++
-```
-
-**Frontend**
-```
-React  Next.js  HTML5  CSS3  Bootstrap  Material-UI  Tailwind CSS
-```
-
-**Backend & Mobile**
-```
-Node.js  Express.js  Django  FastAPI  Android SDK  React Native
-```
-
-**Databases & DevOps**
-```
-PostgreSQL  MongoDB  MySQL  Docker  AWS  Azure  Google Cloud
-```
-
-**Tools & Integration**
-```
-Git  GitHub  VS Code  Figma  REST API  Stripe  PayPal
-```
-
----
-
-## Experience
+## 💼 Experience
 
 **Frontend Developer & Co-founder** • MailSped  
-*Jan 2025 - Present* • *9 mos*  
-Oulu, Finland - Remote
+`Jan 2025 - Present` • `9 mos` • `Oulu, Finland - Remote`
 
 **IT Project Intern** • Tech Solutions Bangladesh  
-*Jun 2022 - Aug 2022* • *2 mos*  
-Bangladesh - On-site
+`Jun 2022 - Aug 2022` • `2 mos` • `Bangladesh - On-site`
 
 ---
 
-## Education
+## 🎓 Education
 
 **Bachelor of Engineering, Information Technology**  
-Oulu University of Applied Sciences • *2024 - 2027*
+`Oulu University of Applied Sciences` • `2024 - 2027`
 
 **Information Technology Foundation**  
-Centria University of Applied Sciences • *2023 - 2024*
+`Centria University of Applied Sciences` • `2023 - 2024`
 
 ---
 
