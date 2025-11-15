@@ -19,11 +19,10 @@
 location: Oulu, Finland
 education: IT Student @ OAMK (3rd Year)
 focus: Web & Mobile Development
-current_project: Skin Cancer Classification (Deep Learning)
 experience: 2+ years in professional development
 ```
 
-- 🔭 Working on my Bachelor's thesis using CNN/DenseNet models
+- 🔭 Working on my Bachelor's thesis project
 - 🌱 Learning Java and advanced backend development
 - 💼 Former Web Developer @ MailSped & WMS Integration Developer
 - 👯 Open to collaborating on innovative projects
