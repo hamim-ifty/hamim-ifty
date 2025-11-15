@@ -1,30 +1,18 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</div>
+
+<div align="center" style="background: linear-gradient(to right, #1a1a2e 1px, transparent 1px), linear-gradient(to bottom, #1a1a2e 1px, transparent 1px); background-size: 20px 20px;">
+
 # Hi 👋, I'm Hamim Ifty
 
-**Web & Mobile Developer | React • Kotlin • Node.js**
+### Web & Mobile Developer | React • Kotlin • Node.js
 
-Currently a third-year IT student at OAMK, Finland, passionate about building modern web and mobile applications.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Mobile+App+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
 
-## 🚀 About Me
-
-- 🔭 Working on skin cancer classification using deep learning for my Bachelor's thesis
-- 🌱 Learning Java and backend development
-- 💼 2+ years of experience in web development and ERP systems
-- 👯 Open to collaborating on innovative web applications and startup projects
-- 💬 Ask me about React, TypeScript, Android development, and startup experiences
-
-## 🛠️ Tech Stack
-
-**Frontend:** React, Next.js, TypeScript, HTML/CSS, Bootstrap  
-**Mobile:** Kotlin, Android SDK, React Native  
-**Backend:** Node.js, Express, Firebase  
-**Database:** MongoDB, MySQL, PostgreSQL  
-**Tools:** Git, Docker, Postman
-
-## 📫 Get in Touch
-
-- Portfolio: [hamimifty.tech](https://hamimifty.tech)
-- Email: info@hamimifty.tech
+</div>
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=hamim-ifty&label=Profile%20views&color=0e75b6&style=flat)
+## 🚀 About Me
+```yaml
