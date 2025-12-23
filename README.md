@@ -17,8 +17,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kotlin" height="60" alt="kotlin logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
@@ -50,11 +48,11 @@
 
 ###
 
-<p align="left">I'm a passionate Full-Stack Software Engineer with 2+ years of experience building scalable web applications and native mobile solutions. Currently pursuing my Bachelor's in Information Technology at Oulu University of Applied Sciences.<br><br>- 🔭 I'm working as a Web Developer at MailSped and Frontend Developer at Machine Vision Solution<br>- 📱 Building native Android apps with Kotlin and MVVM architecture<br>- 🌱 Exploring cloud technologies and CI/CD pipelines<br>- ⚡ In my free time, I contribute to open-source projects and build side projects</p>
+<p align="left">I'm a passionate Full-Stack Software Engineer with 2+ years of experience building scalable web applications and native mobile solutions. Currently pursuing my Bachelor's in Information Technology at Oulu University of Applied Sciences.<br><br>💼 Previously worked as a Web Developer at MailSped and Frontend Developer at Machine Vision Solution<br><br>📱 Building native Android apps with MVVM architecture<br><br>☁️ Exploring cloud technologies and CI/CD pipelines<br><br>⚡ In my free time, I contribute to open-source projects and build side projects</p>
 
 ###
 
-<h3 align="left">🛠 Language and Tools</h3>
+<h3 align="left">🛠️ Language and Tools</h3>
 
 ###
 
@@ -70,8 +68,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
